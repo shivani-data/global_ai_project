@@ -8,7 +8,8 @@ An end-to-end **Exploratory Data Analysis** project analyzing global AI adoption
 
 ```
 global_ai_project/
-├── Global_AI.ipynb                          # Main notebook with SQL 
+├── Global_AI.ipynb                          # Main notebook with SQL
+├── images                                   # Images
 ├── README.md                                # Project overview (this file)
 └── requirements.txt                         # Dependencies file
 ```
